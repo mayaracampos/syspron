@@ -43,7 +43,7 @@
       <div id="canvas-wrapper">
         <canvas id="demo-canvas"></canvas>
       </div>
-	</section>
+  </section>
       <!-- Begin: Content -->
       <section id="content" class="">
 
@@ -81,8 +81,8 @@
                 </div>
                 <!-- .section-divider -->
 
-				<input type="hidden" id=prontuario name=prontuario>
-				
+        <input type="hidden" id=prontuario name=prontuario>
+        
 
                  <div class="section row">
                   <div class="col-md-6">
@@ -125,7 +125,7 @@
                       <input type="text" id="cpf" name="cpf" placeholder="CPF" class="gui-input" required>
                       <label for="cpf" class="field-icon">
                         <i class="fa fa-file-o"></i>
-						</label>
+            </label>
                     </label>
                   </div>
                   <!-- end section -->
@@ -134,9 +134,9 @@
                   <div class="section row">
                 <div class="col-md-6">
                 <div class="fields">
-					<form id=edit_application>
-						<div class="fields">
-							<select class="usertype">
+          <form id=edit_application>
+            <div class="fields">
+              <select class="usertype">
             <option value="doctor">Médico</option>
             <option value="patient">Paciente</option>
             <option value="pharmacist">Farmacêutico</option>
@@ -151,7 +151,7 @@
                     </label>
                   
         </div>
-						
+            
         <div class="pharmacist">
                     <label for="crf" class="field prepend-icon">
                       <input type="text" id="crf" name="crf" placeholder="CRF" class="gui-input" required>

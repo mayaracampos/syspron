@@ -1,6 +1,6 @@
 <html>
 <body>
-<?php include("cabecalho-medico")?>
+<?php include("cabecalho-medico.php")?>
             
 
             <!-- Prescrição Médica -->
